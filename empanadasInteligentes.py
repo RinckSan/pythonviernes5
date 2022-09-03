@@ -4,14 +4,7 @@ print("**MENU EMPA EMPA EMPANADAS**")
 print("1.Crear una empanada")
 print("2.Mostrar empanadas")
 print("0.salir")
-diccionarios={
-    'nombre':"",
-    'ingrediente1':"",
-    'ingrediente2':"",
-    'ingrediente3':"",
-    'preciofab':"",
-    'preciovent':""
-}
+diccionarios={}
 while(centinela!=0):
     centinela=int(input("Digita una opcion: "))
     if(centinela==1):
