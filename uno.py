@@ -1,1 +1,0 @@
-print("Hello, soy el practicante del CESDE")

@@ -11,7 +11,7 @@
 Contenidos:
 
 - Listas
-- duplas
-- diccionarios
+- Tuplas
+- Diccionarios
 
 
